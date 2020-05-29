@@ -1,3 +1,3 @@
 # TheseMetrics
 
-An easy application traffic analytics tool.
+Simpler analytics for your website.
